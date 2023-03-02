@@ -20,7 +20,7 @@ Note that you need to enable `Developer mode` to load unpacked extensions.
 1. Copy the traces to clipboard in order to paste in another application where you can analyse them in detail.
 
 ## License
-Copyright (c) 2021, Ulaş Yılmaz
+Copyright (c) 2023, Ulaş Yılmaz
 
 This program is free software: You are welcome to copy, redistribute or modify it under the terms of [GNU General Public License](LICENSE).
 
