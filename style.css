@@ -1,0 +1,11 @@
+html,
+body {
+    font-family: 'GT Walsheim', 'Helvetica-Neue', 'Helvetica', 'Arial', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #132968;
+}
+
+.headline {
+    padding: 0 20px;
+}
